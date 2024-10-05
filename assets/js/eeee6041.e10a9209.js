@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcampfire_docs=self.webpackChunkcampfire_docs||[]).push([[6688],{7151:e=>{e.exports=JSON.parse('{"categoryGeneratedIndex":{"title":"Scripts","description":"Placeholder","slug":"/category/scripts","permalink":"/docs/category/scripts","sidebar":"docsSidebar","navigation":{"next":{"title":"Browsers","permalink":"/docs/category/browsers"}}}}')}}]);
